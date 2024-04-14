@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests_loginova", "SeleniumTests_loginova\SeleniumTests_loginova.csproj", "{71F73ABA-52AA-4350-A2B1-F89FB27EEACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F73ABA-52AA-4350-A2B1-F89FB27EEACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F73ABA-52AA-4350-A2B1-F89FB27EEACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F73ABA-52AA-4350-A2B1-F89FB27EEACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F73ABA-52AA-4350-A2B1-F89FB27EEACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
